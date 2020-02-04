@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158763226775",
+    "firebase_url": "https://carryb-107bd.firebaseio.com",
+    "project_id": "carryb-107bd",
+    "storage_bucket": "carryb-107bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158763226775:android:5b20951b4fe160ddd5bbd2",
+        "android_client_info": {
+          "package_name": "com.example.carry_bag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158763226775-2qnm3801876s2sbu1l68tsri0sbrktm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carry_bag",
+            "certificate_hash": "e59eccd466dc46546c01729465e713609afc3f0a"
+          }
+        },
+        {
+          "client_id": "158763226775-89du3j8r00aeokidis70e0r5vjmfe4u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDekVKm1G3pn3gvVKHdwKngzwrOT9z04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158763226775-89du3j8r00aeokidis70e0r5vjmfe4u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
